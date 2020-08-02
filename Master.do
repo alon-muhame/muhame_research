@@ -9,7 +9,7 @@ cap log close
 set trace off
 
 *******************************Directory***********************************************************************************
-do "E:\Research Progress\Directory.do"
+do "E:\Research Progress\do file\Directory.do"
 
 *******************************clean***************************************************************************************
 do "$dofile\data_cleaning_01.do" //Creates file that lists variable names abd variable labels. 
@@ -32,4 +32,4 @@ do "$dofile\descriptive_stats.do" // Summary stats on number of variables with s
 
 exit 
 
-* "Note that do files can be run directory from master if all is ok'
+* "Note that do files can be run directory from master if the code has no error ok'

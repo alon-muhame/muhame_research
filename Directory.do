@@ -18,4 +18,4 @@ gl rowdata "E:\Research Progress\data"
 
 exit
 
-* To run these directories in the order specified above * Change your computer -file path to your own!
+* To run these directories in the order specified above * Change file path to your own!
