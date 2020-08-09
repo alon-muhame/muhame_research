@@ -1,4 +1,4 @@
-** Alon Muhame June 2020**
+** Alon Muhame ; June,  2020**
 ***************************************************************************************************************************
 
 version 13.0 
@@ -8,10 +8,15 @@ set trace off
 
 
 *******************************************************************************************************************************************
-*** General  Do's & Don'ts from My own perspective in undertaking any data analysis project's in using statistical anaysis software [STATA]
+*** General  Do's & Don'ts from My own perspective in undertaking any data analysis projects using statistical anaysis software [STATA]
 **********************************************************************************************************************************************
+
+/* KEY REFERENCE : (1). Reproducible Research: Best Practices fo Data & Code Management by Innovations For Poverty Action (IPA); 
+Authors : Erica Chuang, Harrison Diamond Pollock & Stephanie Wykstra, November, 2015 
+                 : (2) Reference is also made to Chapter 6 of the RBF for Health Impact Evaluation Toolkit[ By Elisa, Jenipher ]*/
+
 * This section is just a review of what i have learned over time carrying out projects in statistical software analysis packages. 
-**This Repo focuses on STATA , but be sure to look out my other repos on SPSS, PYTHON, SQL for Relational Databases, R, Tableau, & Eviews**. 
+**This Repo focuses on STATA , but be sure to look out my other repos on SPSS, PYTHON, MySQL for Relational Databases & Google Cloud Computing Database (GCP), R, Tableau, & EViews**. 
 
 *I always start any project by carrying out the following and it involves the follwoing sub-sections before i head on to do tests and validation of 
 *study Methodology and visualisation of the dataset outcomes and finally writing the report *** 
