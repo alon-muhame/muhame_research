@@ -208,7 +208,7 @@ hausman fixed random, sigmamore //The Test fails To Reject the Null Hypothesis o
 *Boastrap of Hausman test OR Use Wooldridge (2002) version of hausman test***- to check consistent of hausman test*
 
 **Robust Hausman test using method of Wooldridge (2002)**
-quietly xtreg $ylist $xlist, re
+/*quietly xtreg $ylist $xlist, re
 
 scalar lambda_hat = 1 - sqrt(e(sigma_e)^2/(e(g_avg)*e(sigma_u)^2+e(sigma_e)^2))
 
@@ -223,13 +223,23 @@ foreach var in $ylist $xlist {
 	gen "`var’_re" = `var’ - lambda_hat*"`var’_bar" if in_sample  
 	gen "`var’_fe" = `var’ - "`var’_bar" if in_sample     
 }     
-set trace off   
-* Cameroon & Truvedi Method of Hausman Test * Robust*
+set trace off  */
+ 
+* Cameroon & Trivedi Method of Hausman Test * Robust*
+
+* Correct Hausman Test * By Cameroon & Trivedi*
+
+foreach x of varlist $xlist {
+by ID: egen mean`x' = mean(`x')
+}
   
-                                         
+  
+quietly regress $ylist $xlist, vce(cluster id)
+test $xlist
+  
 *Wooldridge’s auxiliary regression for the panel-robust Hausman test:
 
-quietly reg $ylist $xlist, if in_sample, cluster(ID) //(output omitted )
+*quietly reg $ylist $xlist, if in_sample, cluster(ID) //(output omitted )
 
 * Test of the null-hypothesis ‘‘gamma==0’’
 
