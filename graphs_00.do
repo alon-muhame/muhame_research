@@ -125,6 +125,53 @@ if YEAR ==2017, mlabel(mlab2) title("Emigratory Rate of Uganda in Relation to GD
  note(" " " Emigratory Rate " " Source: Own elaboration based on data from WDI & UBOS")scheme(vg samec)
  
  twoway dot lnGAPij lnEmigij
+ 
+ * Scatter plots 1
+ 
+preserve
+keep if Dest_Ctryj == "Kenya" | ///
+        Dest_Ctryj == "Rwanda"  | ///
+		Dest_Ctryj == "Burundi" | ///
+		Dest_Ctryj == "Tanzania"
+xtline lnEmigij lnGdp_pcj lnGdp_pci, byopts(note("") ///
+    title("Emigration and GDP per capita across the period 2010-2017" " ", size(4)) ///
+    caption(" " "{bf:Source}: UBOS & World bank Data" ///
+	"{bf:Stata command}: xtline", size(3))) xlabel(,angle(45)) ///
+	legend(size(small)) name(xtline,replace)	
+graph export xtline.png, replace	
+restore		
+ 
+ 
+ * Scatter plots 2
+ 
+preserve
+keep if Dest_Ctryj == "Kenya" | ///
+        Dest_Ctryj == "Rwanda"  | ///
+		Dest_Ctryj == "Burundi" | ///
+		Dest_Ctryj == "Tanzania"
+graph matrix lnEmigij lnGdp_pci lnGAPij , half ///
+ maxes(xlabel(,labsize(2.5) angle(65)) ylabel(, labsize(2.5))) ///
+ by(Dest_Ctryj, note("") ///
+ title("Emigration, and GDP per capita"  ///
+ "Scatter plots across the period 2010-2017"" ", size(4)) ///
+ caption("{bf:Source}: UBOS, & World Bank Data" ///
+ "{bf:Stata command}: graph matrix ", size(3))) name(graphm2,replace) ///
+ diagopts(size(2.3))
+    
+graph export graphm2.png, replace
+restore
+
+
+* Scatter plots 2
+
+label var YEAR "Year"
+graph matrix lnEmigij lnGdp_pci lnGAPij, half ///
+   title("Emigration, GDP per capita, and GAP" ///
+   "Scatter plots across the period 2010-2017" " ", size(4)) ///
+   caption("{bf:Source}: UBOS & World Bank Data" ///
+   "{bf:Stata command}: graph matrix", size(3)) ///
+   maxes(xlabel(,angle(45)) ylabel(,angle(45))) name(graphm1,replace)
+graph export graphm1.png, replace
 
 
 exit

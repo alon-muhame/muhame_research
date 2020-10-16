@@ -224,6 +224,17 @@ foreach var in $ylist $xlist {
 	gen "`var’_fe" = `var’ - "`var’_bar" if in_sample     
 }     
 set trace off  */
+
+
+//mundlak test
+local explain $xlist
+local explainm $xlistm
+foreach var of local explain {
+	bysort Dest_Ctryj: egen double `var'm = mean(`var')
+}
+xtreg lnEmigij `explain' `explainm', re
+test `explainm'
+
  
 * Cameroon & Trivedi Method of Hausman Test * Robust*
 
