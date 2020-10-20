@@ -1,0 +1,925 @@
+attack,smokes,age,bmi,hsgrad,female,id,imp
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,0
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,0
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,0
+0,Nonsmoker,60.358883,,Non-graduate,Male,4,0
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,0
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,0
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,0
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,0
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,0
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,0
+0,Smoker,57.75695,,HS Graduate,Female,11,0
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,0
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,0
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,0
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,0
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,0
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,0
+0,Smoker,29.962866,,HS Graduate,Male,18,0
+0,Smoker,59.51569,,HS Graduate,Female,19,0
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,0
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,0
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,0
+0,Nonsmoker,66.291679,,HS Graduate,Female,23,0
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,0
+1,Nonsmoker,43.426464,,HS Graduate,Male,25,0
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,0
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,0
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,0
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,0
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,0
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,0
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,0
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,0
+1,Nonsmoker,68.298744,,HS Graduate,Male,34,0
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,0
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,0
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,0
+1,Smoker,63.198872,,HS Graduate,Male,38,0
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,0
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,0
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,0
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,0
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,0
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,0
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,0
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,0
+0,Nonsmoker,47.759377,,HS Graduate,Male,47,0
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,0
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,0
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,0
+1,Smoker,45.122246,,Non-graduate,Male,51,0
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,0
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,0
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,0
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,0
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,0
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,0
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,0
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,0
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,0
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,0
+0,Smoker,51.206898,,HS Graduate,Male,62,0
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,0
+0,Nonsmoker,65.827698,,Non-graduate,Female,64,0
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,0
+1,Nonsmoker,66.826233,,Non-graduate,Male,66,0
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,0
+0,Nonsmoker,43.061604,,HS Graduate,Male,68,0
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,0
+0,Smoker,45.637978,,HS Graduate,Male,70,0
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,0
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,0
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,0
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,0
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,0
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,0
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,0
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,0
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,0
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,0
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,0
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,0
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,0
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,0
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,0
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,0
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,0
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,0
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,0
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,0
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,0
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,0
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,0
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,0
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,0
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,0
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,0
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,0
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,0
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,0
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,0
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,0
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,0
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,0
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,0
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,0
+0,Smoker,57.813126,,HS Graduate,Female,107,0
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,0
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,0
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,0
+0,Nonsmoker,40.741966,,HS Graduate,Male,111,0
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,0
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,0
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,0
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,0
+1,Nonsmoker,87.144463,,HS Graduate,Male,116,0
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,0
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,0
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,0
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,0
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,0
+0,Nonsmoker,51.871243,,HS Graduate,Male,122,0
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,0
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,0
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,0
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,0
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,0
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,0
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,0
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,0
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,0
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,0
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,0
+0,Smoker,58.637562,,HS Graduate,Male,134,0
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,0
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,0
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,0
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,0
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,0
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,0
+0,Nonsmoker,58.461575,,Non-graduate,Male,141,0
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,0
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,0
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,0
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,0
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,0
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,0
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,0
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,0
+0,Smoker,40.346634,,HS Graduate,Male,150,0
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,0
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,0
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,0
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,0
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,1
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,1
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,1
+0,Nonsmoker,60.358883,26.814369,Non-graduate,Male,4,1
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,1
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,1
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,1
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,1
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,1
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,1
+0,Smoker,57.75695,21.345259,HS Graduate,Female,11,1
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,1
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,1
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,1
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,1
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,1
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,1
+0,Smoker,29.962866,22.806385,HS Graduate,Male,18,1
+0,Smoker,59.51569,22.741997,HS Graduate,Female,19,1
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,1
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,1
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,1
+0,Nonsmoker,66.291679,23.793999,HS Graduate,Female,23,1
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,1
+1,Nonsmoker,43.426464,26.888727,HS Graduate,Male,25,1
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,1
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,1
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,1
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,1
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,1
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,1
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,1
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,1
+1,Nonsmoker,68.298744,18.889387,HS Graduate,Male,34,1
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,1
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,1
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,1
+1,Smoker,63.198872,23.986404,HS Graduate,Male,38,1
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,1
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,1
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,1
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,1
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,1
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,1
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,1
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,1
+0,Nonsmoker,47.759377,25.386938,HS Graduate,Male,47,1
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,1
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,1
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,1
+1,Smoker,45.122246,30.111448,Non-graduate,Male,51,1
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,1
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,1
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,1
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,1
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,1
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,1
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,1
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,1
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,1
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,1
+0,Smoker,51.206898,23.936029,HS Graduate,Male,62,1
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,1
+0,Nonsmoker,65.827698,23.717695,Non-graduate,Female,64,1
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,1
+1,Nonsmoker,66.826233,22.835779,Non-graduate,Male,66,1
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,1
+0,Nonsmoker,43.061604,32.695187,HS Graduate,Male,68,1
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,1
+0,Smoker,45.637978,26.703724,HS Graduate,Male,70,1
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,1
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,1
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,1
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,1
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,1
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,1
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,1
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,1
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,1
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,1
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,1
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,1
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,1
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,1
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,1
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,1
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,1
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,1
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,1
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,1
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,1
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,1
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,1
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,1
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,1
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,1
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,1
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,1
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,1
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,1
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,1
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,1
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,1
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,1
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,1
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,1
+0,Smoker,57.813126,19.622355,HS Graduate,Female,107,1
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,1
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,1
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,1
+0,Nonsmoker,40.741966,20.392771,HS Graduate,Male,111,1
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,1
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,1
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,1
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,1
+1,Nonsmoker,87.144463,26.713856,HS Graduate,Male,116,1
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,1
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,1
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,1
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,1
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,1
+0,Nonsmoker,51.871243,22.137157,HS Graduate,Male,122,1
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,1
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,1
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,1
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,1
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,1
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,1
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,1
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,1
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,1
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,1
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,1
+0,Smoker,58.637562,22.771374,HS Graduate,Male,134,1
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,1
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,1
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,1
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,1
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,1
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,1
+0,Nonsmoker,58.461575,24.767929,Non-graduate,Male,141,1
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,1
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,1
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,1
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,1
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,1
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,1
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,1
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,1
+0,Smoker,40.346634,19.785088,HS Graduate,Male,150,1
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,1
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,1
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,1
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,1
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,2
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,2
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,2
+0,Nonsmoker,60.358883,27.589237,Non-graduate,Male,4,2
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,2
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,2
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,2
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,2
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,2
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,2
+0,Smoker,57.75695,21.409588,HS Graduate,Female,11,2
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,2
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,2
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,2
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,2
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,2
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,2
+0,Smoker,29.962866,31.179216,HS Graduate,Male,18,2
+0,Smoker,59.51569,26.815855,HS Graduate,Female,19,2
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,2
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,2
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,2
+0,Nonsmoker,66.291679,21.245241,HS Graduate,Female,23,2
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,2
+1,Nonsmoker,43.426464,25.035509,HS Graduate,Male,25,2
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,2
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,2
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,2
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,2
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,2
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,2
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,2
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,2
+1,Nonsmoker,68.298744,22.63201,HS Graduate,Male,34,2
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,2
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,2
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,2
+1,Smoker,63.198872,23.357752,HS Graduate,Male,38,2
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,2
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,2
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,2
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,2
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,2
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,2
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,2
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,2
+0,Nonsmoker,47.759377,26.607729,HS Graduate,Male,47,2
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,2
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,2
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,2
+1,Smoker,45.122246,27.023846,Non-graduate,Male,51,2
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,2
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,2
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,2
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,2
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,2
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,2
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,2
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,2
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,2
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,2
+0,Smoker,51.206898,29.498091,HS Graduate,Male,62,2
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,2
+0,Nonsmoker,65.827698,23.580381,Non-graduate,Female,64,2
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,2
+1,Nonsmoker,66.826233,24.187494,Non-graduate,Male,66,2
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,2
+0,Nonsmoker,43.061604,20.476524,HS Graduate,Male,68,2
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,2
+0,Smoker,45.637978,25.565046,HS Graduate,Male,70,2
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,2
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,2
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,2
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,2
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,2
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,2
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,2
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,2
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,2
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,2
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,2
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,2
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,2
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,2
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,2
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,2
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,2
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,2
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,2
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,2
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,2
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,2
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,2
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,2
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,2
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,2
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,2
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,2
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,2
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,2
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,2
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,2
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,2
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,2
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,2
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,2
+0,Smoker,57.813126,31.600422,HS Graduate,Female,107,2
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,2
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,2
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,2
+0,Nonsmoker,40.741966,32.421684,HS Graduate,Male,111,2
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,2
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,2
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,2
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,2
+1,Nonsmoker,87.144463,27.001974,HS Graduate,Male,116,2
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,2
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,2
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,2
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,2
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,2
+0,Nonsmoker,51.871243,27.243208,HS Graduate,Male,122,2
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,2
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,2
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,2
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,2
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,2
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,2
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,2
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,2
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,2
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,2
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,2
+0,Smoker,58.637562,26.499834,HS Graduate,Male,134,2
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,2
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,2
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,2
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,2
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,2
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,2
+0,Nonsmoker,58.461575,24.054333,Non-graduate,Male,141,2
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,2
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,2
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,2
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,2
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,2
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,2
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,2
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,2
+0,Smoker,40.346634,19.724249,HS Graduate,Male,150,2
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,2
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,2
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,2
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,2
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,3
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,3
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,3
+0,Nonsmoker,60.358883,18.967888,Non-graduate,Male,4,3
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,3
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,3
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,3
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,3
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,3
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,3
+0,Smoker,57.75695,14.921486,HS Graduate,Female,11,3
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,3
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,3
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,3
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,3
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,3
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,3
+0,Smoker,29.962866,25.42482,HS Graduate,Male,18,3
+0,Smoker,59.51569,24.772181,HS Graduate,Female,19,3
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,3
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,3
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,3
+0,Nonsmoker,66.291679,29.163746,HS Graduate,Female,23,3
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,3
+1,Nonsmoker,43.426464,27.21686,HS Graduate,Male,25,3
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,3
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,3
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,3
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,3
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,3
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,3
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,3
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,3
+1,Nonsmoker,68.298744,31.463163,HS Graduate,Male,34,3
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,3
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,3
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,3
+1,Smoker,63.198872,23.577908,HS Graduate,Male,38,3
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,3
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,3
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,3
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,3
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,3
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,3
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,3
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,3
+0,Nonsmoker,47.759377,29.450724,HS Graduate,Male,47,3
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,3
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,3
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,3
+1,Smoker,45.122246,32.389698,Non-graduate,Male,51,3
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,3
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,3
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,3
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,3
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,3
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,3
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,3
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,3
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,3
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,3
+0,Smoker,51.206898,21.189455,HS Graduate,Male,62,3
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,3
+0,Nonsmoker,65.827698,37.51244,Non-graduate,Female,64,3
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,3
+1,Nonsmoker,66.826233,31.772373,Non-graduate,Male,66,3
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,3
+0,Nonsmoker,43.061604,27.347397,HS Graduate,Male,68,3
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,3
+0,Smoker,45.637978,28.584902,HS Graduate,Male,70,3
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,3
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,3
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,3
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,3
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,3
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,3
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,3
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,3
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,3
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,3
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,3
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,3
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,3
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,3
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,3
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,3
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,3
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,3
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,3
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,3
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,3
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,3
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,3
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,3
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,3
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,3
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,3
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,3
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,3
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,3
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,3
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,3
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,3
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,3
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,3
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,3
+0,Smoker,57.813126,32.267529,HS Graduate,Female,107,3
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,3
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,3
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,3
+0,Nonsmoker,40.741966,26.876545,HS Graduate,Male,111,3
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,3
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,3
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,3
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,3
+1,Nonsmoker,87.144463,36.296692,HS Graduate,Male,116,3
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,3
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,3
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,3
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,3
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,3
+0,Nonsmoker,51.871243,25.382217,HS Graduate,Male,122,3
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,3
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,3
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,3
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,3
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,3
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,3
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,3
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,3
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,3
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,3
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,3
+0,Smoker,58.637562,23.787258,HS Graduate,Male,134,3
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,3
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,3
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,3
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,3
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,3
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,3
+0,Nonsmoker,58.461575,31.843525,Non-graduate,Male,141,3
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,3
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,3
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,3
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,3
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,3
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,3
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,3
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,3
+0,Smoker,40.346634,23.762901,HS Graduate,Male,150,3
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,3
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,3
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,3
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,3
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,4
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,4
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,4
+0,Nonsmoker,60.358883,14.204547,Non-graduate,Male,4,4
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,4
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,4
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,4
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,4
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,4
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,4
+0,Smoker,57.75695,24.033955,HS Graduate,Female,11,4
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,4
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,4
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,4
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,4
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,4
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,4
+0,Smoker,29.962866,25.253202,HS Graduate,Male,18,4
+0,Smoker,59.51569,24.024538,HS Graduate,Female,19,4
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,4
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,4
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,4
+0,Nonsmoker,66.291679,21.706404,HS Graduate,Female,23,4
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,4
+1,Nonsmoker,43.426464,19.803598,HS Graduate,Male,25,4
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,4
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,4
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,4
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,4
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,4
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,4
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,4
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,4
+1,Nonsmoker,68.298744,28.624342,HS Graduate,Male,34,4
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,4
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,4
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,4
+1,Smoker,63.198872,30.356211,HS Graduate,Male,38,4
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,4
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,4
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,4
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,4
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,4
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,4
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,4
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,4
+0,Nonsmoker,47.759377,25.409964,HS Graduate,Male,47,4
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,4
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,4
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,4
+1,Smoker,45.122246,27.727295,Non-graduate,Male,51,4
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,4
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,4
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,4
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,4
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,4
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,4
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,4
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,4
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,4
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,4
+0,Smoker,51.206898,30.399302,HS Graduate,Male,62,4
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,4
+0,Nonsmoker,65.827698,21.378412,Non-graduate,Female,64,4
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,4
+1,Nonsmoker,66.826233,19.571333,Non-graduate,Male,66,4
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,4
+0,Nonsmoker,43.061604,21.366289,HS Graduate,Male,68,4
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,4
+0,Smoker,45.637978,26.8855,HS Graduate,Male,70,4
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,4
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,4
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,4
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,4
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,4
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,4
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,4
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,4
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,4
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,4
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,4
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,4
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,4
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,4
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,4
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,4
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,4
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,4
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,4
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,4
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,4
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,4
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,4
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,4
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,4
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,4
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,4
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,4
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,4
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,4
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,4
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,4
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,4
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,4
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,4
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,4
+0,Smoker,57.813126,26.304945,HS Graduate,Female,107,4
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,4
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,4
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,4
+0,Nonsmoker,40.741966,20.153334,HS Graduate,Male,111,4
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,4
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,4
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,4
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,4
+1,Nonsmoker,87.144463,27.201921,HS Graduate,Male,116,4
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,4
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,4
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,4
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,4
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,4
+0,Nonsmoker,51.871243,35.39159,HS Graduate,Male,122,4
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,4
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,4
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,4
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,4
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,4
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,4
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,4
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,4
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,4
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,4
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,4
+0,Smoker,58.637562,28.00318,HS Graduate,Male,134,4
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,4
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,4
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,4
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,4
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,4
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,4
+0,Nonsmoker,58.461575,28.05464,Non-graduate,Male,141,4
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,4
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,4
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,4
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,4
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,4
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,4
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,4
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,4
+0,Smoker,40.346634,21.877407,HS Graduate,Male,150,4
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,4
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,4
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,4
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,4
+0,Nonsmoker,60.292004,21.114553,Non-graduate,Male,1,5
+0,Nonsmoker,45.014355,24.868397,HS Graduate,Male,2,5
+0,Nonsmoker,61.95533,30.502745,Non-graduate,Male,3,5
+0,Nonsmoker,60.358883,20.610054,Non-graduate,Male,4,5
+0,Nonsmoker,45.476906,22.527441,HS Graduate,Female,5,5
+0,Nonsmoker,49.757778,21.879749,HS Graduate,Male,6,5
+0,Smoker,65.398621,17.770565,Non-graduate,Male,7,5
+0,Nonsmoker,39.602947,24.629171,HS Graduate,Female,8,5
+0,Nonsmoker,51.814857,23.472486,Non-graduate,Female,9,5
+1,Nonsmoker,61.339108,24.489164,HS Graduate,Male,10,5
+0,Smoker,57.75695,20.5116,HS Graduate,Female,11,5
+0,Nonsmoker,64.727509,26.62632,HS Graduate,Male,12,5
+0,Nonsmoker,47.892979,20.918415,HS Graduate,Female,13,5
+0,Smoker,83.784233,29.83765,HS Graduate,Female,14,5
+0,Nonsmoker,73.578697,25.327843,HS Graduate,Male,15,5
+1,Smoker,68.713989,22.451265,HS Graduate,Female,16,5
+1,Nonsmoker,49.792744,32.001976,HS Graduate,Male,17,5
+0,Smoker,29.962866,25.558262,HS Graduate,Male,18,5
+0,Smoker,59.51569,32.033104,HS Graduate,Female,19,5
+1,Smoker,36.579735,31.220074,HS Graduate,Female,20,5
+0,Smoker,59.259235,23.937271,Non-graduate,Female,21,5
+1,Smoker,52.267052,22.278013,Non-graduate,Male,22,5
+0,Nonsmoker,66.291679,18.083179,HS Graduate,Female,23,5
+1,Nonsmoker,68.770363,24.939724,HS Graduate,Male,24,5
+1,Nonsmoker,43.426464,25.752159,HS Graduate,Male,25,5
+1,Smoker,51.044155,31.335735,HS Graduate,Male,26,5
+0,Nonsmoker,65.190468,22.729317,HS Graduate,Male,27,5
+0,Nonsmoker,50.076988,24.234594,HS Graduate,Male,28,5
+1,Smoker,68.792747,30.947958,HS Graduate,Male,29,5
+0,Nonsmoker,44.856113,25.202202,HS Graduate,Male,30,5
+1,Nonsmoker,60.475903,26.803743,HS Graduate,Male,31,5
+0,Smoker,67.101257,25.801386,HS Graduate,Female,32,5
+1,Smoker,66.66703,19.620214,HS Graduate,Male,33,5
+1,Nonsmoker,68.298744,20.793461,HS Graduate,Male,34,5
+1,Smoker,68.125481,25.116854,Non-graduate,Male,35,5
+0,Smoker,68.513878,21.972681,HS Graduate,Male,36,5
+0,Smoker,49.781883,23.215872,Non-graduate,Male,37,5
+1,Smoker,63.198872,19.271118,HS Graduate,Male,38,5
+0,Nonsmoker,52.451401,36.005642,HS Graduate,Male,39,5
+0,Nonsmoker,51.87212,21.884899,HS Graduate,Male,40,5
+1,Smoker,53.771622,29.79838,Non-graduate,Male,41,5
+1,Nonsmoker,42.829731,24.442802,HS Graduate,Male,42,5
+1,Nonsmoker,61.10804,18.353186,HS Graduate,Male,43,5
+0,Nonsmoker,49.835072,32.02879,Non-graduate,Female,44,5
+1,Nonsmoker,79.314514,30.222935,Non-graduate,Male,45,5
+0,Nonsmoker,52.678982,26.927397,HS Graduate,Male,46,5
+0,Nonsmoker,47.759377,24.251627,HS Graduate,Male,47,5
+0,Smoker,42.806946,32.563831,HS Graduate,Male,48,5
+1,Smoker,55.15432,24.395975,HS Graduate,Male,49,5
+0,Smoker,38.672916,20.475922,HS Graduate,Male,50,5
+1,Smoker,45.122246,28.908329,Non-graduate,Male,51,5
+0,Nonsmoker,50.650829,31.094643,HS Graduate,Male,52,5
+1,Smoker,77.528938,25.942827,HS Graduate,Female,53,5
+0,Nonsmoker,79.559502,18.662752,HS Graduate,Male,54,5
+0,Nonsmoker,60.139038,23.27424,HS Graduate,Male,55,5
+1,Smoker,65.956833,23.72275,HS Graduate,Male,56,5
+0,Nonsmoker,69.899734,24.90184,HS Graduate,Male,57,5
+0,Nonsmoker,71.556664,25.31543,HS Graduate,Male,58,5
+0,Nonsmoker,61.661633,24.444242,Non-graduate,Male,59,5
+0,Nonsmoker,54.289581,32.37838,HS Graduate,Male,60,5
+1,Smoker,81.984123,23.886139,HS Graduate,Female,61,5
+0,Smoker,51.206898,26.917749,HS Graduate,Male,62,5
+0,Nonsmoker,47.993217,19.929787,HS Graduate,Female,63,5
+0,Nonsmoker,65.827698,18.829153,Non-graduate,Female,64,5
+1,Nonsmoker,42.556889,21.129293,HS Graduate,Male,65,5
+1,Nonsmoker,66.826233,20.801239,Non-graduate,Male,66,5
+1,Smoker,47.663383,26.285381,HS Graduate,Male,67,5
+0,Nonsmoker,43.061604,28.060822,HS Graduate,Male,68,5
+0,Nonsmoker,40.826759,25.054623,HS Graduate,Female,69,5
+0,Smoker,45.637978,27.147346,HS Graduate,Male,70,5
+1,Smoker,65.161781,21.011566,HS Graduate,Male,71,5
+1,Smoker,55.041321,28.297323,HS Graduate,Male,72,5
+0,Nonsmoker,44.349915,24.640537,HS Graduate,Male,73,5
+0,Smoker,55.109879,21.48925,HS Graduate,Male,74,5
+0,Nonsmoker,59.393356,18.578215,Non-graduate,Female,75,5
+1,Smoker,66.348877,31.150614,HS Graduate,Male,76,5
+1,Nonsmoker,66.576797,27.008501,HS Graduate,Male,77,5
+0,Smoker,64.400208,25.10858,Non-graduate,Male,78,5
+0,Nonsmoker,68.980881,21.650549,HS Graduate,Female,79,5
+1,Smoker,57.748806,24.681477,Non-graduate,Male,80,5
+0,Smoker,61.999031,20.357986,Non-graduate,Male,81,5
+1,Nonsmoker,30.08811,30.927643,HS Graduate,Male,82,5
+0,Smoker,20.73613,30.946888,Non-graduate,Male,83,5
+1,Nonsmoker,68.635925,27.372845,Non-graduate,Female,84,5
+0,Smoker,38.396751,23.469711,HS Graduate,Female,85,5
+0,Nonsmoker,59.945919,19.836195,HS Graduate,Female,86,5
+1,Nonsmoker,69.389481,25.59754,HS Graduate,Male,87,5
+1,Nonsmoker,53.650349,20.615887,HS Graduate,Female,88,5
+0,Nonsmoker,42.57523,27.523491,Non-graduate,Male,89,5
+0,Nonsmoker,69.49144,17.226431,Non-graduate,Male,90,5
+0,Nonsmoker,42.125271,26.807552,HS Graduate,Male,91,5
+1,Smoker,67.361732,25.208012,Non-graduate,Male,92,5
+1,Smoker,52.781719,27.999361,HS Graduate,Male,93,5
+0,Nonsmoker,76.615974,20.394173,HS Graduate,Male,94,5
+1,Smoker,53.916447,23.940668,Non-graduate,Female,95,5
+1,Nonsmoker,77.655983,25.189285,HS Graduate,Female,96,5
+0,Nonsmoker,57.036152,27.252798,HS Graduate,Male,97,5
+1,Nonsmoker,73.620186,26.22303,HS Graduate,Male,98,5
+0,Smoker,43.450809,23.34767,HS Graduate,Male,99,5
+1,Smoker,69.940384,24.485958,Non-graduate,Male,100,5
+1,Nonsmoker,37.64362,23.983023,Non-graduate,Male,101,5
+1,Smoker,42.116436,21.364458,HS Graduate,Male,102,5
+1,Nonsmoker,50.835537,38.242142,HS Graduate,Female,103,5
+0,Nonsmoker,58.47382,18.451706,HS Graduate,Male,104,5
+0,Nonsmoker,72.248878,30.748224,Non-graduate,Male,105,5
+0,Nonsmoker,65.101501,25.484745,Non-graduate,Male,106,5
+0,Smoker,57.813126,24.387556,HS Graduate,Female,107,5
+1,Nonsmoker,47.405071,22.66003,HS Graduate,Female,108,5
+1,Nonsmoker,46.180374,30.595331,HS Graduate,Male,109,5
+1,Nonsmoker,41.891766,29.451113,HS Graduate,Male,110,5
+0,Nonsmoker,40.741966,19.841433,HS Graduate,Male,111,5
+0,Nonsmoker,54.736969,29.802265,HS Graduate,Male,112,5
+0,Nonsmoker,47.255867,26.527641,HS Graduate,Female,113,5
+0,Nonsmoker,54.792328,23.674973,HS Graduate,Male,114,5
+1,Smoker,54.249577,27.6894,HS Graduate,Male,115,5
+1,Nonsmoker,87.144463,26.82551,HS Graduate,Male,116,5
+1,Smoker,63.619038,29.889833,HS Graduate,Male,117,5
+0,Nonsmoker,50.73632,27.812876,Non-graduate,Male,118,5
+0,Nonsmoker,48.552486,23.082392,HS Graduate,Female,119,5
+1,Smoker,68.757072,31.036257,HS Graduate,Female,120,5
+0,Smoker,60.858479,20.843882,HS Graduate,Male,121,5
+0,Nonsmoker,51.871243,27.97554,HS Graduate,Male,122,5
+1,Nonsmoker,71.262764,21.795031,HS Graduate,Male,123,5
+0,Nonsmoker,43.822727,27.462715,HS Graduate,Male,124,5
+0,Smoker,66.430992,23.973127,HS Graduate,Male,125,5
+0,Nonsmoker,48.384617,23.388575,HS Graduate,Male,126,5
+0,Nonsmoker,51.133198,26.81785,HS Graduate,Male,127,5
+1,Smoker,72.682869,21.473429,HS Graduate,Female,128,5
+1,Smoker,74.950455,34.026184,HS Graduate,Male,129,5
+1,Smoker,51.591606,20.338745,HS Graduate,Male,130,5
+1,Nonsmoker,55.024921,29.132359,Non-graduate,Female,131,5
+0,Nonsmoker,60.548115,20.568466,HS Graduate,Male,132,5
+1,Smoker,62.110767,29.625399,Non-graduate,Male,133,5
+0,Smoker,58.637562,23.865852,HS Graduate,Male,134,5
+1,Nonsmoker,51.21273,22.873594,HS Graduate,Male,135,5
+1,Smoker,55.690334,27.42585,HS Graduate,Male,136,5
+1,Smoker,45.889465,21.742294,HS Graduate,Male,137,5
+0,Nonsmoker,58.474327,24.469011,Non-graduate,Male,138,5
+1,Smoker,52.444275,27.563898,Non-graduate,Male,139,5
+0,Nonsmoker,62.593685,27.608049,HS Graduate,Male,140,5
+0,Nonsmoker,58.461575,26.966068,Non-graduate,Male,141,5
+0,Smoker,42.225658,24.423433,HS Graduate,Male,142,5
+0,Nonsmoker,49.493488,27.602554,HS Graduate,Male,143,5
+1,Nonsmoker,62.886078,26.023899,HS Graduate,Female,144,5
+1,Smoker,57.646065,22.290972,HS Graduate,Female,145,5
+1,Nonsmoker,51.006153,30.077751,Non-graduate,Male,146,5
+1,Smoker,50.924736,22.080446,HS Graduate,Male,147,5
+1,Smoker,59.073334,21.220095,HS Graduate,Male,148,5
+0,Nonsmoker,51.561279,21.462942,HS Graduate,Male,149,5
+0,Smoker,40.346634,24.747635,HS Graduate,Male,150,5
+1,Nonsmoker,50.114735,21.593847,HS Graduate,Male,151,5
+1,Smoker,70.981369,30.341694,HS Graduate,Female,152,5
+1,Smoker,45.413143,22.887363,Non-graduate,Female,153,5
+0,Nonsmoker,36.966274,20.994646,HS Graduate,Male,154,5
