@@ -1,8 +1,8 @@
 *===============================================================
-* Alon M
+* Alon Muhame 
 * Purpose : To create graphs for visual analysis; 
 * Created By: Muhame Alon - Student Msc.QE - 2017/2018 Cohort
-* Last Updated: 25TH.07.2020 @ 10:44pm; 
+* Last Updated: 08.08.2023 @ 10:37am; 
 *===============================================================
 *1.Preliminary commands
 
@@ -17,9 +17,28 @@ set more off
 *2. Loading the data
 *================================================================
 *  Use the cd -PATH * 
-cd "E:\Research Progress\data"
+cap cd "D:/Research_projects_muhame20230101/muhame_research"
 
-use "cleandataset.dta", replace
+global data "data"
+
+global output "modified_output"
+
+global logfile "logfile"
+
+*============================*
+*Initialize
+*============================*
+
+cap log close /* closes any open log files;  "capture"=no output, 
+even if the command fails (i.e., no open log) */
+
+log using $logfile/migration.log.txt, replace
+
+*=======================================*
+**Open the data set: cleandataset.dta** 
+*=======================================*
+
+use $data/cleandata/cleandataset.dta, replace
 
 *3.creating macros
 *================================================================
@@ -92,15 +111,15 @@ estimates store M_ar
 *5.First difference estimator //D. is Delta first difference the constant disappears, so to tell stata that u dont want to include a constant u put no constant//
 qui xtregar $ylist $xlist
 
-outreg2 using "E:\Research Progress\results\D.Estimates.doc", replace dec(3) ctitle("First Difference Estimators1")
+outreg2 using "E:/Research Progress/results/D.Estimates.doc", replace dec(3) ctitle("First Difference Estimators1")
 
 qui reg D.($ylist $xlist), noconstant
 
-outreg2 using "E:\Research Progress\results\D.Estimates.doc", append dec(3) ctitle("First Difference Estimators2")
+outreg2 using "E:/Research Progress/results/D.Estimates.doc", append dec(3) ctitle("First Difference Estimators2")
 
 qui reg D.($ylist $xlist), vce(cluster ID) nocon
 
-outreg2 using "E:\Research Progress\results\D.Estimates.doc", append dec(3) ctitle("First Difference Estimators3")
+outreg2 using "E:/Research Progress/results/D.Estimates.doc", append dec(3) ctitle("First Difference Estimators3")
 
 estimates store M2
 
@@ -134,16 +153,39 @@ lnDistij Colonyij Comlangij EACij Euij COMESAij SADCij AMERICASij ASIA ROWij
 
 qui xtreg $ylist $xlist, re theta
 
-outreg2 using "E:\Research Progress\results\RE_Estimates.doc", replace dec(3) ctitle(RE)
+outreg2 using "E:/Research Progress/results/RE_Estimates.doc", replace dec(3) ctitle(RE)
 
 **/Models Presented in th Results & Discussed**/
 xtreg $ylist $xlist, re vce(robust) 
 
-outreg2 using "E:\Research Progress\results\RE_Estimates.doc", append dec(3) ctitle(RE_robust) 
+estimates store RE_robust
 
-xtreg $ylist lnlaglnEmigij lnf1lnEmigij $xlist, re vce(robust)
+*outreg2 using "E:/Research Progress/results/RE_Estimates.doc", append dec(3) ctitle(RE_robust) 
 
-outreg2 using "E:\Research Progress\results\RE_Estimates.doc", append dec(3) ctitle(RE_Dynamic) 
+xtreg $ylist lnlaglnEmigij  $xlist, re vce(robust)
+
+estimates store RE_Dynamic
+
+*outreg2 using "E:/Research Progress/results/RE_Estimates.doc", append dec(3) ctitle(RE_Dynamic) 
+
+ esttab RE_robust RE_Dynamic using "$modified_output/models12.tex", replace  ///
+ b(3) se(3) noconstant nomtitle label star(* 0.10 ** 0.05 *** 0.01) ///
+ booktabs  ///
+ title("Results of Static and Dynamic Random Effects (OLS), 2010-2017 \label{reg1}")   ///
+ addnotes("Data: Migration Panel dataset" "Second line note")
+ 
+ * Basic OLS Estimation model 
+ regress $ylist lnDistij lnPopi lnPopj, noconstant
+ 
+ estimates store OLS_pulled 
+ 
+ esttab, se ar2
+ 
+  esttab OLS_pulled using "$modified_output/models_basic.tex", replace  ///
+ b(3) se(3) ar2 nomtitle label star(* 0.10 ** 0.05 *** 0.01) ///
+ booktabs  ///
+ title("Basic Gravity Ordinary Least Squares Model Estimation Results \label{reg2}")   ///
+ addnotes("Data: Migration Panel dataset" "Second line note")
 
  *Estimator Comparison*
 ///Compare various estimators (with cluster-robust se's)///
@@ -166,6 +208,13 @@ estimates store BE
 estimates table OLS BE RE FE, b(%7.4f) se stats(N)
 
 estout OLS FE RE BE, cells(b(star fmt(3)) se(par fmt(3))) legend label varlabels(_cons constant) stats(r2 df_r) 
+
+ esttab OLS FE RE BE using "$modified_output/estimate_models.tex", replace  ///
+ b(3) se(3) nomtitle label star(* 0.10 ** 0.05 *** 0.01) ///
+ booktabs  ///
+ title("Comparison of various estimators (with cluster-robust se's)\label{reg2}")   ///
+ addnotes("Data: knowledge" "Second line note")
+
 
 *Prediction , Contrast btn OLS & RE in-sample fitted values**(Cameroon & Trivedi - Microeconometric Analysis using Stata)*
 quietly regress $ylist $xlist , vce(cluster ID)
@@ -248,7 +297,7 @@ by ID: egen mean`x' = mean(`x')
 quietly regress $ylist $xlist, vce(cluster id)
 test $xlist
   
-*Wooldridge’s auxiliary regression for the panel-robust Hausman test:
+*Wooldridge's auxiliary regression for the panel-robust Hausman test:
 
 *quietly reg $ylist $xlist, if in_sample, cluster(ID) //(output omitted )
 
@@ -458,7 +507,7 @@ xtpcse lnReal_Interesti lnEmigij lnGdpi lnGdpj, correlation(psar1) rhotype(freg)
  *DYNAMIC PANEL DATA MODELS/MODEL ESTIMATES
  
 *===============================================================
-*** Linear dynamic panel models with individual e¤ects***
+*** Linear dynamic panel models with individual effects***
 
 *********ARELLANO-BOND ESTIMATOR/SYSTEM GMM - MODEL ESTIMATES*********
 
@@ -498,7 +547,7 @@ xtdpd lnEmigij,lag(2) vce(robust) pre(lnGdp_pci)
 
 xtdpdsys lnEmigij,lags(2) vce(robust) nocons
 
-xtdpdsys lnEmigij lnGdp_pci lnGdp_pcj  lnInflni lnInflnj
+xtdpdsys lnEmigij lnlaglnEmigij lnGdp_pcj lnInflnj lnBil_Remitij lnBil_ExchRateij lnUnempli
 
 ********HAUSMAN-TAYLOR ESTIMATOR - for error components models or swammy model************
 
